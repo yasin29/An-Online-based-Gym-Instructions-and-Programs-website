@@ -1,0 +1,74 @@
+[
+    {
+        "p_id": 1,
+        "name": "AALPHA",
+        "price": 49,
+        "img": "https://i.ibb.co/MV8FCWD/aalpha.png"
+    },
+    {
+        "p_id": 2,
+        "name": "BASE-STACK",
+        "price": 35,
+        "img": "https://i.ibb.co/NKkrhpf/base-stack.png"
+    },
+    {
+        "p_id": 3,
+        "name": "MECHAN-X",
+        "price": 45,
+        "img": "https://i.ibb.co/8rKgMLJ/mechan-x.png"
+    },
+    {
+        "p_id": 4,
+        "name": "MUSCLE-STACK",
+        "price": 55,
+        "img": "https://i.ibb.co/swKgnV2/muscle-stack.png"
+    },
+    {
+        "p_id": 5,
+        "name": "OMEGA",
+        "price": 65,
+        "img": "https://i.ibb.co/02W552H/omega.png"
+    },
+    {
+        "p_id": 6,
+        "name": "PRX-BUNDLE-BASELINE-V5",
+        "price": 55,
+        "img": " https://i.ibb.co/0B2S9sG/prx-bundle-baseline-v5.png"
+    },
+    {
+        "p_id": 7,
+        "name": "PRX-V4",
+        "price": 35,
+        "img": "https://i.ibb.co/k1YddFF/prx-v4.png"
+    },
+    {
+        "p_id": 8,
+        "name": "RX-1",
+        "price": 75,
+        "img": "https://i.ibb.co/HPFjGxX/rx-1.png"
+    },
+    {
+        "p_id": 9,
+        "name": "RX-2",
+        "price": 25,
+        "img": "https://i.ibb.co/mGGcjN2/rx-2.png"
+    },
+    {
+        "p_id": 10,
+        "name": "RX-3",
+        "price": 55,
+        "img": "https://i.ibb.co/93MMg8x/rx-3.png"
+    },
+    {
+        "p_id": 11,
+        "name": "RX-4",
+        "price": 65,
+        "img": "https://i.ibb.co/8zmzhbq/rx-4.png"
+    },
+    {
+        "p_id": 12,
+        "name": "WOMEN-STACK",
+        "price": 75,
+        "img": " https://i.ibb.co/kGyWNVG/womens-stack.png"
+    }
+]

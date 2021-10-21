@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Complete Athlete Training",
+        "description": "BEGINNER TO INTERMEDIATE & ADD MUSCLE & LOSE FAT",
+        "img": "https://i.ibb.co/TYycTj7/p1.png"
+    },
+    {
+        "id": 2,
+        "name": "Maximum Fat Loss",
+        "description": "BEGINNER THROUGH ADVANCED & LOSE FAT",
+        "img": "https://i.ibb.co/grj8jVR/p2.png"
+    },
+    {
+        "id": 3,
+        "name": "Bodyweight Training",
+        "description": "INTERMEDIATE TO ADVANCED & ADD MUSCLE & LOSE FAT",
+        "img": "https://i.ibb.co/P5GPhKd/p3.png"
+    },
+    {
+        "id": 4,
+        "name": "Advanced Bodyweight Training",
+        "description": "INTERMEDIATE TO ADVANCED & ADD MUSCLE",
+        "img": " https://i.ibb.co/v3tTk45/p4.png"
+    },
+    {
+        "id": 5,
+        "name": "Complete Athlete Training II",
+        "description": "INTERMEDIATE TO ADVANCED & ADD MUSCLE & LOSE FAT",
+        "img": "https://i.ibb.co/VQr5tkr/p5.png"
+    },
+    {
+        "id": 6,
+        "name": "Women Training Program",
+        "description": "BEGINNER TO INTERMEDIATE & ADD MUSCLE & LOSE FAT",
+        "img": "https://i.ibb.co/Y8KhBJD/p6.png"
+    }
+]

@@ -1,0 +1,13 @@
+.navName{
+    margin-right: 15px;
+}
+#userDisplayName{
+    margin-right: 5px;
+}
+.navName:hover{
+    background-color: darkcyan;
+    border-radius: 5px;
+}
+.navName:active{
+    background-color: rgb(102, 139, 0);
+}

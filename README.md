@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Xclusive Gym - An Online-based Gym Instructions and Programs website using react router and firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For explore this website, [Click Here]().
 
-## Available Scripts
+## Available Feature and Functionality
 
-In the project directory, you can run:
+In the project directory, you can run a service based website of Gym Programs. This website has specialized programs for trainings and you can choose one of those programs. User can also buy supplements from this website. :
 
-### `npm start`
+### `Used Libraries and Technology`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Used `react router`
+2. Used `Context Api`
+3. Used `font awesome` for icons
+4. used `react bootstrap` as css framework.
+5. Used `Google Firebase` for login and sign up
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+### `Login and Sign up`
+1. User can create new account using valid email and password.
+2. `Email and password validation` required.
+3. User can logged In with existing Google, github, facebook account.
+4. `Email verification` feature available.
+5. `Password reset` feature Available.
+6. Can easily toggle between login and sign up page.
+### `Navbar and Footer`
+1. Have resourceful and functional Navbar and footer.
+2. User can go to Home page by clicking on Brand name or Home
+3. User can access Home, Programs, supplements, results, article, Login route
+4. Articles and Supplements are `Private route`.
+5. After login user can see `Logout` and `user name and photo` instead of login.
+6. Navbar is responsive with toggle for mobile devices.
+### `Home`
+1. Home has carousal slider.
+2. By clicking on text of slider, can go to those directory.
+3. Home has featured Programs and supplements.
+4. User can go to respective route by clicking more.
+5. Has reviews and FAQ section.
+### `Private Route`
+1. User can not access articles and supplements without login.
+2. Learn more and proceed to buy are also private.
+3. Only Registered and login user can access all the functionality
+!!!Enjoy!!!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
